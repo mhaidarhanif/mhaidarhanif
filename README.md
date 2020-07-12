@@ -1,4 +1,4 @@
-### Hi there, I am Haidar
+### Hi there, I am Haidar 🤠
 
 An educator, engineer, and explorer. You can call me like "Hi there."
 
