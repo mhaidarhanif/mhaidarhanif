@@ -1,8 +1,8 @@
-# Hi there, I'm [Haidar](https://mhaidarhanif.com) 🤠
+# Hi there, I'm [Haidar](https://mhaidarhanif.com). You can call me like "Hi there"
 
-## You can call me like "Hi there."
+## Mainly working and living as a tech educator, career mentor, and software engineer
 
-### Mainly I'm working and living as a tech educator, software engineer, and skill explorer.
+<a href="https://github.com/mhaidarh"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mhaidarh&include_all_commits=true&show_icons=true" align="right" height="150" /></a>
 
 - ⭐️ Founder of [Azobu](https://github.com/azobu) company, a tech career development platform.
 - 💫 Founder of [High Skill Masters](https://github.com/highskillmasters) community, a gathering of highly skilled professionals.
@@ -12,10 +12,11 @@
 - 🌱 Learning about advanced software engineering practices, public speaking, business development, people marketing, valueable copywriting, and content creation.
 - 💬 Ask me about anything relevant to education, software engineering, and entrepreneurship.
 - 📫 Contact me via [mhaidarhanif.com](https://haidar.dev/com), [Twitter](https://haidar.dev/twitter), or [LinkedIn](https://haidar.dev/linkedin).
-- 💡 Fun fact: JavaScript first appeared ~24 years ago (December 4, 1995)
 
-Have a fun day! Here are some stats if you're interested:
+Enjoy your day! You can follow me on Twitter:
 
-[![Haidar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhaidarh&include_all_commits=true&show_icons=true)](https://github.com/mhaidarh)
-
-[![Haidar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaidarh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="https://twitter.com/mhaidarh">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mhaidarh?style=for-the-badge">
+  </a>
+</p>
