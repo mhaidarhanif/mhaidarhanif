@@ -4,7 +4,7 @@
 
 <a href="https://github.com/mhaidarh"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mhaidarh&include_all_commits=true&show_icons=true" align="right" height="150" /></a>
 
-- ⭐️ Founder of [Azobu](https://github.com/azobu) company, a tech career development platform.
+- ⭐️ Founder of [Catamyst](https://github.com/catamyst) company, a tech career development platform.
 - 🍀 Founder of [High Skill Masters](https://github.com/highskillmasters) community, a worldwide gathering of highly skilled professionals.
 - 🐲 Co-Founder of [Impact Byte](https://github.com/impactbyte/welcome) company, a fast track coding school.
 - 🦊 Ex-Senior Instructor of [Hacktiv8](https://github.com/hacktiv8/phase-0-activities/graphs/contributors?from=2016-07-10&to=2020-07-09&type=a) company, an intensive coding bootcamp.
