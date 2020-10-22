@@ -2,7 +2,7 @@
 
 ## Living and working as a tech educator, career mentor, and software engineer
 
-<a href="https://github.com/mhaidarh"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mhaidarh&include_all_commits=true&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/mhaidarhanif"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mhaidarhanif&include_all_commits=true&show_icons=true" align="right" height="150" /></a>
 
 - ⭐️ Founder of [Catamyst](https://github.com/catamyst) company, a tech career development platform.
 - 🍀 Founder of [High Skill Masters](https://github.com/highskillmasters) community, a worldwide gathering of highly skilled professionals.
