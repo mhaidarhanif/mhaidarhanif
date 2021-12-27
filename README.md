@@ -5,7 +5,8 @@
 ## Living and working as a tech educator, career mentor, and software engineer
 
 - 🐱 Founder of [Catamyst](https://github.com/catamyst) company, a tech career development platform.
-- 🍀 Founder of [High Skill Masters](https://github.com/highskillmasters) community, a worldwide gathering of highly skilled professionals.
+- 🎁 Developer Relations Lead of [Kontenbase](https://github.com/kontenbase), a backend as a service (BaaS) platform.
+- 🍀 Community Lead of [High Skill Masters](https://github.com/highskillmasters), a worldwide gathering of highly skilled professionals.
 - 🐲 Co-Founder of [Impact Byte](https://github.com/impactbyte) company, a fast track coding school.
 - 🦊 Ex-Senior Instructor of [Hacktiv8](https://github.com/hacktiv8/phase-0-activities/graphs/contributors?from=2016-07-10&to=2020-07-09&type=a) company, an intensive coding bootcamp.
 - 🔥 Ex-Trainer and Software Engineer of some companies, schools, and clients.
