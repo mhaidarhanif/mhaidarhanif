@@ -1,4 +1,4 @@
-![Cover Image](./assets/mhaidarhanif-cover-github.png)
+![Cover Image](./assets/mhaidarhanif-cover.png)
 
 # 🤠 Hi there! I'm Haidar
 
