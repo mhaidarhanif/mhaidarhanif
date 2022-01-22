@@ -1,6 +1,8 @@
 ![Cover Image](./assets/mhaidarhanif-cover-github.png)
 
-# 🤠 Hi there! I'm Haidar. You can call me like "Hi there"
+# 🤠 Hi there! I'm Haidar
+
+You can call me like "Hi there"
 
 ## Living and working as a tech educator, career mentor, and software engineer
 
