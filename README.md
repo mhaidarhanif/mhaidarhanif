@@ -1,4 +1,4 @@
-![Cover Image](https://user-images.githubusercontent.com/235584/145655056-86663b68-d602-4d11-9ee8-b93b7e64dc97.png)
+![Cover Image](./assets/mhaidarhanif-cover-github.png)
 
 # 🤠 Hi there! I'm Haidar. You can call me like "Hi there"
 
