@@ -8,6 +8,7 @@ You can call me like "Hi there"
 
 - 🐱 Founder of [Catamyst](https://github.com/catamyst) company, a tech career development platform.
 - 🎁 Developer Relations Lead of [Kontenbase](https://github.com/kontenbase), a backend as a service (BaaS) platform.
+- 💧 Product Engineer of [Poinswap](https://github.com/poinswap), a friendly and curated decentralized exchange (DEX).
 - 🍀 Community Lead of [High Skill Masters](https://github.com/highskillmasters), a worldwide gathering of highly skilled professionals.
 - 🐲 Co-Founder of [Impact Byte](https://github.com/impactbyte) company, a fast track coding school.
 - 🦊 Ex-Senior Instructor of [Hacktiv8](https://github.com/hacktiv8/phase-0-activities/graphs/contributors?from=2016-07-10&to=2020-07-09&type=a) company, an intensive coding bootcamp.
@@ -26,11 +27,7 @@ You can ask me or get help about anything relevant to life, education, software 
 
 Enjoy your day!
 
-You can also follow me on Twitter:
-
-<a href="https://twitter.com/mhaidarhanif">
-  <img alt="Follow Haidar on Twitter" src="https://img.shields.io/twitter/follow/mhaidarhanif?style=for-the-badge">
-</a>
+You can also [follow me on Twitter @mhaidarhanif](https://twitter.com/mhaidarhanif)
 
 Here's a little Git stats:
 
