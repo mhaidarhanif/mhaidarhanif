@@ -2,7 +2,10 @@
 
 # 🤠 Hi there! I'm Haidar
 
-You can call me like "Hi there" and say "Hi" or anything on Twitter [![Twitter](https://img.shields.io/twitter/follow/mhaidarhanif?label=Follow&style=social)](https://twitter.com/mhaidarhanif)
+You can call me like "Hi there" and say "Hi" or anything here:
+
+[![Twitter](https://img.shields.io/twitter/follow/mhaidarhanif?style=flat-square&color=00acee&label=Follow%20@mhaidarhanif%20on%20Twitter)](https://twitter.com/mhaidarhanif)
+<a href="https://youtube.com/c/mhaidarhanif"><img src="https://img.shields.io/youtube/channel/subscribers/UC4W74hqnXf6cvwrEhUbk9Fg?style=flat-square&color=ff0000&label=Subscribe%20on%20YouTube" alt="Youtube" /></a>
 
 Living and working as a educator, mentor, software engineer, web developer, experience designer, and tech consultant.
 
