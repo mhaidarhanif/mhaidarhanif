@@ -25,10 +25,12 @@ Living and working as a educator, mentor, software engineer, web developer, expe
 
 You can ask me or get help about anything relevant to life, education, software engineering, interface and experience design, also entrepreneurship.
 
-A little Git stats:
-
-<a href="https://github.com/mhaidarhanif"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mhaidarhanif&include_all_commits=true&theme=github_dark&show_icons=true" height="150" /></a>
-
 Enjoy your day! Remember to [follow me on Twitter @mhaidarhanif](https://twitter.com/mhaidarhanif)
 
 P.S. Yes the CEO/CTO/COO/CXO/CDO thing is a joke but a real thing too :)
+
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mhaidarhanif&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaidarhanif&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
+
