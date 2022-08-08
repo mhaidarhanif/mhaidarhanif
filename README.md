@@ -4,9 +4,10 @@
 
 You can call me like "Hi there" and say "Hi" or anything here:
 
-[![Twitter](https://img.shields.io/twitter/follow/mhaidarhanif?style=flat-square&color=00acee&label=Follow%20@mhaidarhanif%20on%20Twitter)](https://twitter.com/mhaidarhanif)
-<a href="https://youtube.com/c/mhaidarhanif"><img src="https://img.shields.io/youtube/channel/subscribers/UC4W74hqnXf6cvwrEhUbk9Fg?style=flat-square&color=ff0000&label=Subscribe%20Haidar%20on%20YouTube" alt="Youtube" /></a>
-<a href="https://youtube.com/channel/UCrd66qTdY9VCKHxufocLh2w"><img src="https://img.shields.io/youtube/channel/subscribers/UCrd66qTdY9VCKHxufocLh2w?style=flat-square&color=ff0000&label=Subscribe%20Catamyst%20on%20YouTube" alt="Youtube" /></a>
+<a href="https://twitter.com/mhaidarhanif"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mhaidarhanif?color=00acee&label=Haidar%20on%20Twitter&logo=Twitter&logoColor=ffffff&style=flat-square"></a>
+<a href="https://youtube.com/c/mhaidarhanif"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC4W74hqnXf6cvwrEhUbk9Fg?label=Haidar%20on%20YouTube&logo=YouTube&style=flat-square&color=ff0000"></a>
+<a href="https://youtube.com/channel/UCrd66qTdY9VCKHxufocLh2w"><img alt="Youtube"  src="https://img.shields.io/youtube/channel/subscribers/UCrd66qTdY9VCKHxufocLh2w?style=flat-square&color=ff0000&label=Catamyst%20on%20YouTube&logo=YouTube" /></a>
+<a href="https://twitch.com/mhaidarhanif"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/mhaidarhanif?color=9146ff&label=Twitch&logo=Twitch&logoColor=ffffff&style=flat-square"></a>
 
 Living and working as a educator, mentor, software engineer, web developer, experience designer, and tech consultant.
 
