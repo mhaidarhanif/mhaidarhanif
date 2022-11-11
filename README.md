@@ -11,13 +11,16 @@ You can call me like "Hi there" and say "Hi" or anything here:
 
 Living and working as a educator, mentor, software engineer, web developer, experience designer, and tech consultant.
 
-- 🐱 Founder (CEO/CTO/COO/CXO/CDO) and Mentor of [Catamyst](https://github.com/catamyst) company, a tech career development platform.
-- 💠 Partner and Content Developer of [CodePolitan](https://codepolitan.com), a coding and programming community.
-- 🎁 Partner and Developer Relations Lead of [Kontenbase](https://github.com/kontenbase), a backend as a service (BaaS) platform.
-- 💧 Partner and Product Engineer of [Poinswap](https://github.com/poinswap), a friendly and curated decentralized exchange (DEX).
-- 🍀 Partner and Community Lead of [High Skill Masters](https://github.com/highskillmasters), a worldwide gathering of highly skilled professionals.
-- 🐲 Ex-CEO/CTO and Co-Founder of [Impact Byte](https://github.com/impactbyte) company, a fast track coding school.
-- 🦊 Ex-Senior Instructor of [Hacktiv8](https://github.com/hacktiv8/phase-0-activities/graphs/contributors?from=2016-07-10&to=2020-07-09&type=a) company, an intensive coding bootcamp.
+- 🐱 Founder (CEO/CTO/COO/CXO/CDO) and Mentor at [Catamyst](https://github.com/catamyst) company, a tech career development platform.
+- 💠 Content Developer at [CodePolitan](https://codepolitan.com), a coding and programming community.
+- 🎁 Developer Relations Lead at [Kontenbase](https://github.com/kontenbase), a backend as a service (BaaS) platform.
+- 🌕 Curriculum Contributor at [RevoU](https://github.com/revou-id), a various education program.
+- 💧 Frontend Product Engineer at [Poinswap](https://github.com/poinswap), a friendly and curated decentralized exchange (DEX).
+- 🧳 Industry Partner at Me.reka Academy. 
+- 💼 Mentor at FutureLab.
+- 🍀 Community Lead at [High Skill Masters](https://github.com/highskillmasters), a worldwide gathering of highly skilled professionals.
+- 🐲 Ex-CEO/CTO and Co-Founder at [Impact Byte](https://github.com/impactbyte) company, a fast track coding school.
+- 🦊 Ex-Senior Instructor at [Hacktiv8](https://github.com/hacktiv8/phase-0-activities/graphs/contributors?from=2016-07-10&to=2020-07-09&type=a) company, an intensive coding bootcamp.
 - 🔥 Ex-Trainer and Software Engineer for individual and team projects, and with some companies, schools, clients.
 - 🔭 Working on helping people to start and grow their careers in the modern software industry.
   - Mostly focusing on the business building, interface and experience design, web development.
