@@ -33,9 +33,3 @@ You can ask me or get help about anything relevant to life, education, software 
 Enjoy your day! Remember to [follow me on Twitter @mhaidarhanif](https://twitter.com/mhaidarhanif)
 
 P.S. Yes the CEO/CTO/COO/CXO/CDO thing is a joke but a real thing too :)
-
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mhaidarhanif&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaidarhanif&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
-
