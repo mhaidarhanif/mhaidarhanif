@@ -31,7 +31,7 @@ Previously:
 
 Contact:
 
-💬 Contact me via: [mhaidarhanif.com](https://mhaidarhanif.com), [catamyst.com](https://catamyst.com), [Twitter](https://twitter.com/mhaidarhanif), [LinkedIn](https://linkedin.com/in/mhaidarhanif), [Telegram](https://t.me/mhaidarhanif), [Facebook](https://facebook.com/mhaidarhanif), [Instagram](https://instagram.com/mhaidarhanif_), [Showwcase](https://showwcase.com/haidar), [Read.cv](https://read.cv/mhaidarhanif)
+💬 Contact me via: [mhaidarhanif.com](https://mhaidarhanif.com), [haidar.dev](https://haidar.dev), [catamyst.com](https://catamyst.com), [Twitter](https://twitter.com/mhaidarhanif), [LinkedIn](https://linkedin.com/in/mhaidarhanif), [Telegram](https://t.me/mhaidarhanif), [Facebook](https://facebook.com/mhaidarhanif), [Instagram](https://instagram.com/mhaidarhanif_), [Showwcase](https://showwcase.com/haidar), [Read.cv](https://read.cv/mhaidarhanif)
 
 You can ask me or get help about anything relevant to life, education, software engineering, interface and experience design, also entrepreneurship.
 
