@@ -10,10 +10,11 @@ You can call me like "Hi there" and say "Hi" or anything here:
 
 Living and working as a educator, mentor, software engineer, web developer, experience designer, and tech consultant.
 
-- 🐱 Founder (CEO/CTO/COO/CXO/CDO) and Mentor at [Catamyst](https://github.com/catamyst), a tech career development platform.
+- 🐱 Founder and Engineer at [Catamyst](https://github.com/catamyst), a tech agency and software development consultancy.
+- 🐻 Founder and Mentor at [Bearmentor](https://github.com/bearmentor), a mentoring platform and community.
 - 💠 Content Developer at [CodePolitan](https://codepolitan.com), a coding and programming community.
 - ⚛️ Co-Organizer at [ReactJS Indonesia](https://github.com/reactjs-id) and maintainer at [id.react.dev](https://github.com/reactjs/id.react.dev)
-- 🌕 Curriculum and Instructor at [RevoU](https://github.com/revou-id), a various education program.
+- 🌕 Instructor at [RevoU](https://github.com/revou-id), a various education program.
 - 🔭 Working on helping people to start and grow their careers in the modern software industry.
   - Focusing on the business building, interface and experience design, web development.
   - Using Figma, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Node.js, React, Remix, Next.js, Vite, Redux, Express, NestJS, Vitest, Playwright, Prisma ORM, PostgreSQL, MySQL/MariaDB, MongoDB, Redis, REST API, GraphQL, Vercel, Netlify, Railway.app, Render.com, Fly.io, Google Cloud Platform (GCP), Amazon Web Services (AWS), and other modern stack.
