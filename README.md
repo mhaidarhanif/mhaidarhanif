@@ -1,12 +1,8 @@
 ![Cover Image](./assets/mhaidarhanif-cover-github.png)
 
-# 🤠 Hi there! I'm Haidar
+# 👋😄 Hi, I'm Haidar
 
-You can call me like "Hi there" and say "Hi" or anything here:
-
-<a href="https://twitter.com/mhaidarhanif"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mhaidarhanif?color=00acee&label=Haidar%20on%20Twitter&logo=Twitter&logoColor=ffffff&style=flat-square"></a>
-<a href="https://youtube.com/c/mhaidarhanif"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC4W74hqnXf6cvwrEhUbk9Fg?label=Haidar%20on%20YouTube&logo=YouTube&style=flat-square&color=ff0000"></a>
-<a href="https://youtube.com/channel/UCrd66qTdY9VCKHxufocLh2w"><img alt="Youtube"  src="https://img.shields.io/youtube/channel/subscribers/UCrd66qTdY9VCKHxufocLh2w?style=flat-square&color=ff0000&label=Catamyst%20on%20YouTube&logo=YouTube" /></a>
+You can call me like "Hi there".
 
 Living and working as a educator, mentor, software engineer, web developer, experience designer, and tech consultant.
 
@@ -32,8 +28,8 @@ Previously:
 
 Contact:
 
-💬 Contact me via: [mhaidarhanif.com](https://mhaidarhanif.com), [haidar.dev](https://haidar.dev), [catamyst.com](https://catamyst.com), [Twitter](https://twitter.com/mhaidarhanif), [LinkedIn](https://linkedin.com/in/mhaidarhanif), [Telegram](https://t.me/mhaidarhanif), [Facebook](https://facebook.com/mhaidarhanif), [Instagram](https://instagram.com/mhaidarhanif_), [Showwcase](https://showwcase.com/haidar), [Read.cv](https://read.cv/mhaidarhanif)
+💬 Say "Hi" to me via: [mhaidarhanif.com](https://mhaidarhanif.com), [haidar.dev](https://haidar.dev), [catamyst.com](https://catamyst.com), [bearmentor.com](https://bearmentor.com), [Twitter](https://twitter.com/mhaidarhanif), [LinkedIn](https://linkedin.com/in/mhaidarhanif), [Telegram](https://t.me/mhaidarhanif), [Facebook](https://facebook.com/mhaidarhanif), [Instagram](https://instagram.com/mhaidarhanif_), [Showwcase](https://showwcase.com/haidar), [Read.cv](https://read.cv/haidar)
 
 You can ask me or get help about anything relevant to life, education, software engineering, interface and experience design, also entrepreneurship.
 
-Enjoy your day! [Follow me on Twitter @mhaidarhanif](https://twitter.com/mhaidarhanif)
+Enjoy your day!
