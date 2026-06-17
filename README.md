@@ -1,6 +1,6 @@
 ![Cover Image](./assets/mhaidarhanif-cover-github.png)
 
-# 👋😄 Hi, I'm Haidar
+# 👋 Hey there, I'm Haidar
 
 > Software Engineer and Full Stack Web Developer
 
@@ -34,4 +34,3 @@ Contact:
 
 You can ask me or get help about anything relevant to life, education, software engineering, interface and experience design, also entrepreneurship.
 
-Enjoy your day!
